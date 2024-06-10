@@ -95,7 +95,7 @@ async function processChunks(dataArray, chunkSize) {
   }
 }
 async function readFileAndUpload() {
-  const filePath = path.join(__dirname, './Real-time-moke data.json');
+  const filePath = path.join(__dirname, './data.json');
   if (!fs.existsSync(filePath)) {
     log('error', `Data file not found: ${filePath}`);
     return;
