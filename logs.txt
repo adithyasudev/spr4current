@@ -1,0 +1,2 @@
+::1 - - [10/Jun/2024:10:07:56 +0000] "GET /?level=Success HTTP/1.1" 404 139 "http://localhost:3000/?level=Error" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+::1 - - [10/Jun/2024:10:08:00 +0000] "GET / HTTP/1.1" 404 139 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"

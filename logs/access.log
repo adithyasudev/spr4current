@@ -1,0 +1,5 @@
+::ffff:127.0.0.1 - - [10/Jun/2024:20:42:18 +0000] "GET /logs HTTP/1.1" 404 143 "-" "Thunder Client (https://www.thunderclient.com)"
+::ffff:127.0.0.1 - - [10/Jun/2024:20:42:24 +0000] "GET / HTTP/1.1" 200 562 "-" "Thunder Client (https://www.thunderclient.com)"
+::ffff:127.0.0.1 - - [10/Jun/2024:20:42:38 +0000] "GET / HTTP/1.1" 200 562 "-" "Thunder Client (https://www.thunderclient.com)"
+::ffff:127.0.0.1 - - [10/Jun/2024:20:42:51 +0000] "GET /log HTTP/1.1" 404 142 "-" "Thunder Client (https://www.thunderclient.com)"
+::ffff:127.0.0.1 - - [10/Jun/2024:20:42:59 +0000] "GET / HTTP/1.1" 200 562 "-" "Thunder Client (https://www.thunderclient.com)"
