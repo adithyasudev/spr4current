@@ -10,3 +10,8 @@
 ::1 - - [11/Jun/2024:09:01:49 +0000] "GET /?level=ERROR HTTP/1.1" 200 1547 "http://localhost:3000/?level=WARN" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
 ::1 - - [11/Jun/2024:09:01:51 +0000] "GET /?level=SUCCESS HTTP/1.1" 200 1547 "http://localhost:3000/?level=ERROR" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
 ::1 - - [11/Jun/2024:09:01:52 +0000] "GET /?level=INFO HTTP/1.1" 200 1939 "http://localhost:3000/?level=SUCCESS" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+::ffff:127.0.0.1 - - [11/Jun/2024:09:26:53 +0000] "GET / HTTP/1.1" 200 2201 "-" "Thunder Client (https://www.thunderclient.com)"
+::1 - - [11/Jun/2024:09:30:32 +0000] "GET /?level=INFO HTTP/1.1" 200 2201 "http://localhost:3000/?level=SUCCESS" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+::1 - - [11/Jun/2024:09:30:35 +0000] "GET /?level=WARN HTTP/1.1" 304 - "http://localhost:3000/?level=INFO" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+::1 - - [11/Jun/2024:09:30:36 +0000] "GET /?level=INFO HTTP/1.1" 304 - "http://localhost:3000/?level=WARN" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+::ffff:127.0.0.1 - - [11/Jun/2024:09:44:38 +0000] "GET / HTTP/1.1" 200 2332 "-" "Thunder Client (https://www.thunderclient.com)"
