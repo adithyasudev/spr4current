@@ -50,7 +50,7 @@ router.get('/', (req, res) => {
           font-size: 1em;
         }
         pre {
-          background-color: #e9ecef;
+          background-color: green;
           border: 1px solid #ced4da;
           border-radius: 4px;
           padding: 10px;
